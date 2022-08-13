@@ -13,7 +13,6 @@ dataset = pd.read_csv(url, names=names)
 dataset.head()
 
 """
-
 	sepal-length 	sepal-width 	petal-length 	petal-width 	Class
 0 	5.1 	3.5 	1.4 	0.2 	Iris-setosa
 1 	4.9 	3.0 	1.4 	0.2 	Iris-setosa
